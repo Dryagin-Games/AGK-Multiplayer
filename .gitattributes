@@ -1,0 +1,7 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# AppGameKit file extensions
+*.agk linguist-language=AppGamekit
+*.agc linguist-language=AppGamekit
+*.byc linguist-language=AppGamekit
